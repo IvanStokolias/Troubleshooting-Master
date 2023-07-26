@@ -1,12 +1,13 @@
-1. Network Connectivity Issue:
+Issue with Network Connectivity:
 
-Symptoms: The application is inaccessible, or requests fail to reach the server.
+Symptoms: Requests either fail to reach the server or the application is not available.
 
-Troubleshooting Steps:
+Steps for troubleshooting
 
-Check server's network settings and firewall rules.
-Verify that the server's network interface is up and has the correct IP address.
-Test network connectivity using ping or traceroute.
-Ensure DNS resolution is working correctly.
-Check for network congestion or bandwidth issues.
+Examine the firewall rules and network configurations on the server.
+Check to see if the network interface on the server is operational and has the right IP address.
+Use ping or traceroute to examine the network's connection.
+Verify that DNS resolution is functioning properly.
+Check for bandwidth or network congestion concerns.
 Review any recent changes to network configurations.
+
