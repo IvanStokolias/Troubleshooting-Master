@@ -4,6 +4,10 @@ on:
   push:
     branches:
       - main
+      - application-error
+      - database-connection
+      - network-connectivity
+      - server-configuration
 
 jobs:
   build:
